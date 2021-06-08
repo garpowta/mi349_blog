@@ -23,7 +23,6 @@ h2 {
 
 p {
     line-height: 1.4em;
-    width: 200px;
 }
 
 #blog {
@@ -33,4 +32,8 @@ p {
 
 .blog-post {
     border-bottom: 1px dotted #ccc;
+}
+
+article {
+    border-bottom: 1px solid #000;
 }
