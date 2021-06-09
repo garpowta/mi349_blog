@@ -13,7 +13,6 @@ body {
 h1 {
     font-size: 3em;
     margin: 0;
-
 }
 
 h2 {
@@ -32,6 +31,11 @@ p {
 
 .blog-post {
     border-bottom: 1px dotted #ccc;
+}
+
+section {
+    background: #ccc;
+    display: flex;
 }
 
 article {
