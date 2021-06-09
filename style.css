@@ -16,8 +16,15 @@ h1 {
 }
 
 h2 {
-    font-size: 3em;
+    font-size: 2em;
     margin: 0;
+    text-align: center;
+}
+
+h3 {
+    font-size: 2em;
+    margin: 0;
+    text-align: center;
 }
 
 p {
