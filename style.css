@@ -60,10 +60,9 @@ form {
 
 .paint img {
     margin-left: 5px;
-    width: 500px;
-    height: 500px;
-    float: top;
-    
+    width: 250px;
+    height: 250px;
+    float: left;
 }
 
 
