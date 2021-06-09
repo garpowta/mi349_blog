@@ -10,6 +10,16 @@ body {
     background: #fff;
 }
 
+section {
+    background: #ccc;
+    display: flex;
+    border-bottom: 1px solid #000
+}
+
+article {
+    margin-left: 5px;
+}
+
 h1 {
     font-size: 3em;
     margin: 0;
@@ -37,17 +47,6 @@ h4 {
 p {
     line-height: 1.4em;
 }
-
-section {
-    background: #ccc;
-    display: flex;
-    border-bottom: 1px solid #000;
-}
-
-article {
-    margin-left: 5px;
-}
-
 
 header {
     text-align: center;
