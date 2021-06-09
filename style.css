@@ -52,6 +52,12 @@ article {
 
 header {
     text-align: center;
+
+}
+
+.sticky {
+    position: sticky;
+    top: 0;
 }
 
 form {
