@@ -67,3 +67,11 @@ form {
     text-align: center;
 }
 
+.paint img{
+    float: left;
+    margin-left: 5px;
+    width: 500px;
+    height: 500px;
+
+}
+
