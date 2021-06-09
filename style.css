@@ -58,4 +58,17 @@ form {
     text-align: center;
 }
 
+.paint img {
+    margin-left: 5px;
+    width: 500px;
+    height: 500px;
+}
 
+.sticky {
+    position: sticky;
+    top: 0;
+}
+
+.sticky, .cyberpunk {
+    padding: 10px;
+}
