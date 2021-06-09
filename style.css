@@ -49,10 +49,10 @@ p {
 
 section {
     background: #ccc;
+    border-bottom: 1px solid #000;
 }
 
 article {
-    border-bottom: 1px solid #000;
     margin-left: 5px;
 }
 
