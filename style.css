@@ -50,9 +50,13 @@ article {
     border-bottom: 1px solid #000;
 }
 
+.sticky {
+    position: sticky;
+    top: 0;
+}
+
 header {
     text-align: center;
-    position: sticky;
 
 }
 
