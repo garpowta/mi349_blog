@@ -38,15 +38,6 @@ p {
     line-height: 1.4em;
 }
 
-#blog {
-    border-right: 1px dotted #ccc;
-
-}
-
-.blog-post {
-    border-bottom: 1px dotted #ccc;
-}
-
 section {
     background: #ccc;
     display: flex;
