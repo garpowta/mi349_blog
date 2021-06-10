@@ -64,6 +64,9 @@ form {
     float: left;
 }
 
+.sticky, .sticky-screen {
+    padding: 20px;
+}
 
 .sticky {
     position: sticky;
