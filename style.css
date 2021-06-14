@@ -72,3 +72,13 @@ form {
     position: sticky;
     top: 0;
 }
+
+@media (max-width: 400px){
+    #c1 {
+        display: inline;
+    }
+
+    #c2 {
+        background: red;
+    }
+}
