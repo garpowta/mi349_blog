@@ -75,6 +75,6 @@ form {
 
 @media (max-width: 400px){
     #c1 {
-        display: inline;
+        display: block;
     }
 }
