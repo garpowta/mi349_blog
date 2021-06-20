@@ -87,10 +87,6 @@ table {
     display: inline-block;
     font-size: 16px;
     padding: 10px 24px;
-    transition-duration: 0.25s;
-}
-
-.button:hover {
-    background-color: #008CBA;
-    color: white;
+    background-color: teal;
+    text-align: center;
 }
