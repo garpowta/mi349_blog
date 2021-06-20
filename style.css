@@ -85,9 +85,12 @@ table {
 
 .button {
     transition-duration: .3s;
+    background-color: white;
+    font-size: 14px;
+    padding: 10px 24px;
 }
 
 .button:hover {
-    background-color: white;
-    color: green;
+    background-color: green;
+    color: white;
 }
