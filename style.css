@@ -83,3 +83,11 @@ table {
     border-spacing: 5px;
 }
 
+.button {
+    transition-duration: .3s;
+}
+
+.button:hover {
+    background-color: blue;
+    color: white;
+}
