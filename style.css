@@ -88,6 +88,6 @@ table {
 }
 
 .button:hover {
-    background-color: blue;
-    color: white;
+    background-color: white;
+    color: green;
 }
