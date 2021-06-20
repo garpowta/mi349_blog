@@ -78,3 +78,7 @@ form {
         display: block;
     }
 }
+
+table {
+    border-spacing: 5px;
+}
